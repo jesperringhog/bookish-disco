@@ -4,8 +4,13 @@ import viteLogo from "/vite.svg";
 import { setupCounter } from "./counter.ts";
 
 //jesper
+<<<<<<< HEAD
+
+
+=======
 //andrea
-//ola 1
+//ola
+//andrea 2
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
     <a href="https://vite.dev" target="_blank">
