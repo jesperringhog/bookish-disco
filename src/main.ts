@@ -4,10 +4,6 @@ import viteLogo from "/vite.svg";
 import { setupCounter } from "./counter.ts";
 
 //jesper
-<<<<<<< HEAD
-
-
-=======
 //andrea
 //ola
 //andrea 2
